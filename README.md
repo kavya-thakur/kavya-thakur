@@ -4,7 +4,9 @@
 
 <br>
 
-I build complete web products with **Next.js, TypeScript and PostgreSQL**, from the database to a polished interface, and I ship them live. Right now I'm a **Full Stack Developer Intern at Cloudshope** in Noida, working on the company's CRM product.
+Full-stack developer who builds and ships complete web products with **Next.js, TypeScript and PostgreSQL**, from database design and APIs to the interface people actually use.
+
+Below are three I designed, built and launched on my own: a real-time sales CRM, a link-in-bio platform for creators, and a React component library. Each one is live, so you can try it before reading the code.
 
 **Open to full-time roles and freelance projects.**
 
